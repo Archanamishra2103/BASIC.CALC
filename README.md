@@ -1,3 +1,8 @@
+🔢 Basic Calculator (Java Console I/O)
+
+A menu-driven calculator built in Java using methods and console input/output.
+This project demonstrates loops, methods, and Scanner usage in Java.
+    
     import java.util.Scanner;
 
     public class BasicCalculator {
